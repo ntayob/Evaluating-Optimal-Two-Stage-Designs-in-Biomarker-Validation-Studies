@@ -241,7 +241,7 @@ n_d_bar = 200 # Sample size for controls
 n = n_d + n_d_bar # Total sample size
 r_d = 0.5 # Proportion of cases in stage 1
 r_d_bar = 0.5 # Proportion of controls in stage 1
-h = 0.7 # Continuation criterion
+h = 0.7 # Continuation to stage 2 criterion
 alpha = 0.05
 
 K1 = 500 # Number of bootstrap samples for estimation
